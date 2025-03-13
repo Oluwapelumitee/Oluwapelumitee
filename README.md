@@ -25,7 +25,7 @@ Skilled in Python, SQL, Excel, Power BI, and Machine Learning.
 
 ##  Connect With Me
 - **LinkedIn:** www.linkedin.com/in/oluwapelumi4taiwo
-- **Portfolio:** 
+- **Portfolio:** www.datascienceportfol.io/oluwapelumi4taiwo
 - **Email:** oluwapelumi4taiwo@gmail.com
 
 💡 *Let's collaborate and explore data-driven insights together!*
