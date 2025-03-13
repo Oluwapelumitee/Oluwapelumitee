@@ -1,10 +1,31 @@
-### Hi there 👋
+# Hi there!  I'm Oluwapelumitee
 
-I'm Oluwapelumi, an aspiring frontend developer passionate about creating user-friendly web experiences.
+**Data Analyst | Aspiring Data Scientist | |Healthcare Management Student| Python | Power BI**  
+Passionate about data-driven decision-making in healthcare and business analytics.  
+Skilled in Python, SQL, Excel, Power BI, and Machine Learning.
 
-- 🔭 I’m currently working on my personal portfolio and learning JavaScript.
-- 🌱 I’m currently learning responsive design and Git.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about HTML, CSS, and web development in general.
-- 📫 How to reach me: oluwapelumi4taiwo@gmail.com
-- ⚡ Fun fact: I love exploring new technologies and learning new things every day!
+
+
+##  Current Projects
+- **Brain Tumor Classification** (Power BI & Python)
+- **Diabetes Clinical Data Analysis** (Predictive Modeling)
+- **Retail Sales Analysis** (Excel & Power BI) 
+- **Digital Access in Rural Nigeria** (Data Cleaning & Visualization)
+
+---
+
+##  Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Data Analysis & Visualization:** Power BI, Excel, SQL
+- **Machine Learning:** Classification & Predictive Analytics
+- **Business Intelligence:** Healthcare & Retail Analytics
+- **Tools:** Jupyter Notebook, Microsoft SQL Server, Power Query
+
+
+
+##  Connect With Me
+- **LinkedIn:** www.linkedin.com/in/oluwapelumi4taiwo
+- **Portfolio:** 
+- **Email:** oluwapelumi4taiwo@gmail.com
+
+💡 *Let's collaborate and explore data-driven insights together!*
